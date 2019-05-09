@@ -1,0 +1,7 @@
+com/wajahat/dropwizard/UserApplication.class
+com/wajahat/dropwizard/service/UserService.class
+com/wajahat/dropwizard/domain/User$UserBuilder.class
+com/wajahat/dropwizard/config/UserConfig.class
+com/wajahat/dropwizard/health/UserHealth.class
+com/wajahat/dropwizard/domain/User.class
+com/wajahat/dropwizard/rest/UserController.class
